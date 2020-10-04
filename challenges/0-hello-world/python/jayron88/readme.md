@@ -6,11 +6,7 @@
 
 **Nível Técnico:** - Estudante
 
-**Twitter**: https://twitter.com/danielhe4rt (opcional)
-
 **Dificuldade de Resolução:** - Baixa
-
-**Comentários:** Nesse desafio eu achei que ... (Opcional)
 
 **Como rodar o desafio**: 
 
